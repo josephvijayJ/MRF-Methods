@@ -143,7 +143,7 @@ output:
 
 ## Filter method Array of objects:
 
-Task is to filter out all the values of age gretae than 25
+Task is to filter out all the values of age greater than 25
 
 const user = [
     {firstname : 'Akshay',lastname:'kumar',age:'15'},
